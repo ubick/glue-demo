@@ -1,0 +1,3 @@
+# common config should go inside config.yml
+twig:
+  path: views

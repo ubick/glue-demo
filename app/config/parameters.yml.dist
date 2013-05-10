@@ -1,0 +1,7 @@
+# Confidential parameters should go inside parameters.yml
+# Example of confidential config:
+#  
+# doctrine.orm:
+#  dbname: db_name
+#  user: db_user
+#  password: db_pass

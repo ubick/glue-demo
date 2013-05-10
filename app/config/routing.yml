@@ -1,0 +1,12 @@
+Demo_index:
+    pattern:  /
+    defaults: { _controller: Controller\DemoController::index }   
+    requirements:
+      _method: GET
+      
+Demo_hello:
+    pattern:  /hello/{name}
+    defaults: { _controller: Controller\DemoController::hello }   
+    requirements:
+      _method: GET      
+      name: .+

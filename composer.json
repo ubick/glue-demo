@@ -1,0 +1,21 @@
+{
+    "name": "ubick/glue-demo",
+    "license": "MIT",    
+    "minimum-stability": "dev",
+    "description": "Glue - demo project",
+    "authors": [
+        {
+            "name": "Liviu Panainte",
+            "email": "liviu.panainte@gmail.com"
+        }
+    ],
+    "require": {
+        "ubick/glue": "dev-master"
+    },
+    "autoload": {
+        "psr-0": {
+            "": "src/"
+        }
+    }
+}
+ 

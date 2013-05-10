@@ -1,0 +1,2 @@
+# confidentia config should go inside parameters.yml
+# e.g. database details, various API credentials and secrets etc.
