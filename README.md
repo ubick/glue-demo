@@ -7,7 +7,7 @@ It can be used as the skeleton for your new applications.
 Installation
 ------------
 
-Download an archive of this application and unpack it somewhere under your web server root directory.
+[Download][2] an archive of this application and unpack it somewhere under your web server root directory.
 
 If you don't have Composer yet, download it following the instructions on
 http://getcomposer.org/ or just run the following command:
@@ -32,3 +32,4 @@ Make sure your host is loading the web folder. Example Apache2 vhost below:
     </VirtualHost>
 
 [1]: https://github.com/ubick/glue
+[2]: https://github.com/ubick/glue-demo/archive/master.zip
